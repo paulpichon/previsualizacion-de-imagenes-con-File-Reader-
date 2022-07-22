@@ -17,5 +17,5 @@ Un controlador para el evento loadend. Este evento se activa cada vez que  la op
 
 Comienza la lectura del contenido del objeto Blob, una vez terminada, el atributo result contiene un data: URL que representa los datos del fichero.
 
-Basicamente de eso se compone este pequeño script, adicional vienen unas condiciones como el verificar que sea una imagen, o que el peso de la imagen no sea más de 2MB
-Tambien se añade SweetAlert para las alertas
+- Basicamente de eso se compone este pequeño script, adicional vienen unas condiciones como el verificar que sea una imagen, o que el peso de la imagen no sea más de 2MB
+-Tambien se añade SweetAlert2 para las alertas
