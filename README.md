@@ -19,3 +19,6 @@ Comienza la lectura del contenido del objeto Blob, una vez terminada, el atribut
 
 - Basicamente de eso se compone este pequeño script, adicional vienen unas condiciones como el verificar que sea una imagen, o que el peso de la imagen no sea más de 2MB
 -Tambien se añade SweetAlert2 para las alertas
+
+Este es el link del proyecto funcionando:
+https://paulpichon.github.io/previsualizacion-de-imagenes-con-File-Reader-/
